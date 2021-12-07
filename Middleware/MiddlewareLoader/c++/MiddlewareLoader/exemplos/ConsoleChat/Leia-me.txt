@@ -1,8 +1,0 @@
-S = Servidor
-/ = Para
-C = Cliente
-R = Salas
-
-CHAT1 = S/C
-CHAT2 = S/CC...
-CHAT3 = SR/CC...
