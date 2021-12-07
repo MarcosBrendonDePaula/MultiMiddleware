@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\build\CMakeFiles\70f3707922b99ef00d1d31d54c2a82a8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8D48DAC5-C4E9-302C-9059-1DAB489115C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

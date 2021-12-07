@@ -1,0 +1,4 @@
+C:/Users/nexga/Documents/GitHub/tcc/Middleware/MiddlewareLoader/c++/MiddlewareLoader/build/CMakeFiles/Server.dir
+C:/Users/nexga/Documents/GitHub/tcc/Middleware/MiddlewareLoader/c++/MiddlewareLoader/build/CMakeFiles/Client.dir
+C:/Users/nexga/Documents/GitHub/tcc/Middleware/MiddlewareLoader/c++/MiddlewareLoader/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nexga/Documents/GitHub/tcc/Middleware/MiddlewareLoader/c++/MiddlewareLoader/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,6 @@
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\bin\Debug\MiddlewareLoader.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\obj\Debug\MiddlewareLoader.csproj.CoreCompileInputs.cache
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\obj\Debug\MiddlewareLoader.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\bin\Debug\MiddlewareLoader.dll.config
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\bin\Debug\MiddlewareLoader.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\MIddlewareLoader\obj\Debug\MiddlewareLoader.dll

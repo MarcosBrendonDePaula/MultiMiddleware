@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\src\Client\Client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Buffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\ErrorMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\EventTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\MiddlewareModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Tcp\AsyncClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Tcp\AsyncServer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\include\Tcp\SyncClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c++\MiddlewareLoader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2AFCCF68-5696-38B6-BCC9-C6C36B7AF874}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

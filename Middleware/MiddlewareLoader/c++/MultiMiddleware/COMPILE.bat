@@ -1,0 +1,2 @@
+g++ ..\MiddlewareLoader\Buffer.cpp ..\MiddlewareLoader\ErrorMessage.cpp ..\MiddlewareLoader\EventTypes.cpp ..\MiddlewareLoader\MiddlewareModule.cpp ..\MiddlewareLoader\Socket.cpp ..\MiddlewareLoader\Tcp\AsyncClient.cpp ..\MiddlewareLoader\Tcp\AsyncServer.cpp ..\MiddlewareLoader\Tcp\SyncClient.cpp .\main.cpp .\Config.cpp .\FunctionManager.cpp .\Middleware.cpp .\Node.cpp -o server -lws2_32
+pause

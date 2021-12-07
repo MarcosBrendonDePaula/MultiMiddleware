@@ -1,0 +1,13 @@
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\Teste.exe.config
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\Teste.exe
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\Teste.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\MiddlewareLoader.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\obj\Debug\Teste.csproj.CopyComplete
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\obj\Debug\Teste.exe
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\obj\Debug\Teste.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\MiddlewareLoader.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\MiddlewareLoader.dll.config
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\Middleware.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Teste\bin\Debug\Middleware.pdb

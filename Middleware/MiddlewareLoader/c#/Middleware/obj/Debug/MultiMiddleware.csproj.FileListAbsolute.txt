@@ -1,0 +1,10 @@
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\bin\Debug\Middleware.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\bin\Debug\Middleware.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\bin\Debug\MiddlewareLoader.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\bin\Debug\MiddlewareLoader.pdb
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\bin\Debug\MiddlewareLoader.dll.config
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\obj\Debug\MultiMiddleware.csprojAssemblyReference.cache
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\obj\Debug\MultiMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\obj\Debug\MultiMiddleware.csproj.CopyComplete
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\obj\Debug\Middleware.dll
+C:\Users\nexga\Documents\GitHub\tcc\Middleware\MiddlewareLoader\c#\Middleware\obj\Debug\Middleware.pdb
